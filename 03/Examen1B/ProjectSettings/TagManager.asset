@@ -4,18 +4,17 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - Paquete
-  - Cliente
   - Lento
   - Rapido
+  - Charco
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Carrito
   - Water
   - UI
-  - 
+  - Obstaculos
   - 
   - 
   - 
